@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'apple';
+    src: url(../fonts/sf-pro_regular.woff2) format('woff2');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'apple';
+    src: url(../fonts/sf-pro_semibold.woff2) format('woff2');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'apple';
+    src: url(../fonts/sf-pro_bold.woff2) format('woff2');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'appleKR';
+    src: url(../fonts/SFProKRDisplay_light.woff2) format('woff2');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'appleKR';
+    src: url(../fonts/SFProKRDisplay_regular.woff2) format('woff2');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'appleKR';
+    src: url(../fonts/SFProKRDisplay_semibold.woff2) format('woff2');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'appleKR';
+    src: url(../fonts/SFProKRDisplay_bold.woff2) format('woff2');
+    font-weight: 700;
+}
